@@ -44,7 +44,7 @@
 ;(load "/home/vynguye/emacs-plugins/highlight-it.el")
 
 ; generate/view bytecode from .class file(s)
-(load "/home/vynguye/emacs-plugins/class-file-handler-new.el")
+(load "/home/vynguye/emacs-plugins/class-file-handler.el")
 
 ; kill from current cursor to the end
 (load "/home/vynguye/emacs-plugins/kill-to-end.el")
