@@ -48,3 +48,7 @@
 
 ; kill from current cursor to the end
 (load "/home/vynguye/emacs-plugins/kill-to-end.el")
+
+; to show battery usage
+(display-battery-mode)
+
